@@ -1,5 +1,3 @@
-![MasterHead]![image](https://github.com/shrutiupadhyay75/shrutiupadhyay75/assets/122087349/e229f2ff-8282-4332-8749-954742780a61)
-)
 <h1 align="center">Hi 👋, I'm Shruti Upadhyay</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src=![image](https://github.com/shrutiupadhyay75/shrutiupadhyay75/assets/122087349/8887878c-878d-46f0-a323-12f65004f069)
