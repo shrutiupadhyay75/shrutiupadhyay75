@@ -1,4 +1,4 @@
-![MasterHead](https://dribbble.com/shots/1193016-Mountain-Graph-gif?list=popular&offset=48)
+![MasterHead](https://dribbble.com/shots/1193016/attachments/1193016-Mountain-Graph-gif?mode=media)
 <h1 align="center">Hi 👋, I'm Shruti Upadhyay</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/2498700-Toptal-Scholarship-for-Female-Developers-Winner">
