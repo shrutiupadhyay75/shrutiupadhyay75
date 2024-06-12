@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data ANALYTICS**
 
-- 💬 Ask me about **Python, R, SQL**
+- 💬 Ask me about **Python, SQL, Excel, Power BI**
 
 - 📫 How to reach me **shruti.upadhyay75@gmail.com**
 
