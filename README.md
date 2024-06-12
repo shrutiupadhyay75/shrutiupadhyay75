@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shruti Upadhyay</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data ANALYST from India</h3>
 <img align="right" alt="Coding" width="400" src=![image](https://github.com/shrutiupadhyay75/shrutiupadhyay75/assets/122087349/8887878c-878d-46f0-a323-12f65004f069)
 
 >
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data ANALYTICS**
 
 - 💬 Ask me about **Python, R, SQL**
 
